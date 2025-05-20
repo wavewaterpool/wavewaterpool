@@ -1,4 +1,6 @@
-## Hi there 👋
+# About me
+- 🌱 I’m currently learning Python with interests in the fields of Data Science and Machine Learning.
+- 👯 I’m looking to collaborate on projects which involves Data Science and Machine Learning.
 
 <!--
 **wavewaterpool/wavewaterpool** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
